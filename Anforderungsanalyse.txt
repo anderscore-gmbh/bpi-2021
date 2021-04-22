@@ -1,0 +1,33 @@
+Anforderungsanalyse:
+
+- Pflanzen
+  - Orchidee
+  - Bäume
+
+- Tiere
+  - Wildkatze -> Mäusehöhle
+  - Geldbauchunke
+  - Bieber
+  - Mopsfledermaus
+
+Lebensraum (Habitate)
+- Gewässerqualität
+- Höhlen
+  - Mäusehöhlen
+- Totholz
+
+Eigenschaften
+- Bedrohte Arten
+- Geoinformation
+
+Artikatierer in Teams bestehend aus Fachleuten
+- Mitglieder
+- Team-ID
+- Einsatzort
+
+Stammdaten einer Person
+- Name
+- Personalnummer
+- Kenntnisse
+
+
